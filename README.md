@@ -75,7 +75,7 @@ for a little demo
 
 ## License
 
-This project is licensed under the [Webdev Studios]('https://webdevstudios.org/')
+This project is licensed under the [Webdev Studios](https://webdevstudios.org/)
 
 ## Acknowledgments
 
