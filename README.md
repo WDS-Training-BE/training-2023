@@ -2,7 +2,7 @@
 
 How to init your backend api project well!
 
-![screenshot](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+![screenshot](https://github.com/WDS-Training-BE/training-2023/blob/main/markdown/decriptionBG.png?raw=true)
 
 ## Getting Started
 
@@ -72,10 +72,6 @@ for a little demo
 
 - **KaiNguyen** -
   [Touch me here](https://github.com/anacondaf)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
